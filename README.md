@@ -112,5 +112,5 @@ user
 users
 
 post
-posts
+posts 
 ```
